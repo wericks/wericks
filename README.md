@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @wericks :tea: :coffee:
-- 👀 I’m interested in FullStack Development, Security, Project Management
+- 👋 Olá, eu sou Werick:tea: :coffee:
+- 👀 Tenho interessem em FullStack Development, Security, Project Management
 
-- 🌱 I’m currently learning HTML5, CSS
+- 🌱 Atualmente estou aprendendo HTML5, CSS, JavaScript, Java, Git, Angular
 
 ![Java Lang](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Angular Framework](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
@@ -13,9 +13,8 @@
 <!-- - I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me  -->
 
-- :world: Formas de Contato
-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/werick-souza/)  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](twitter.com/werick_ss)
-- 
+### Formas de Contato
+- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/werick-souza/)
 
 <!---
 wericks/wericks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
